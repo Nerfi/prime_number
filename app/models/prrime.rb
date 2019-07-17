@@ -1,0 +1,2 @@
+class Prrime < ApplicationRecord
+end
